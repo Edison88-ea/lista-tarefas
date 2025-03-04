@@ -1,0 +1,5 @@
+Estudar pandas
+Estudar Cloud
+Estudar Django
+Estudar Python
+Estudar aws
